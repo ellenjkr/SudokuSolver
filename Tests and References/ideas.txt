@@ -1,0 +1,1 @@
+ao inves de trocar o 10 por um outro da linha uma possibilidade tambem é verificar se o numero que falta ja esta em seu quadrante, se estiver tentamos fazer uma troca na linha em que se encontra (no quadrante) esse numero que falta na linha do atual
